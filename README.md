@@ -36,3 +36,12 @@ pip install -r requirements.txt
 ```bash
 python3 main.py
 ```
+
+---
+
+## Citation
+
+Please refer to this work by citing the paper indicated below.
+
+G. Kurtz, S. Carraro, C. Teixeira, L. Bandeira, B. Müller, R. Tietzmann, M. S. Silveira, I. H. Manssour. StreamVis: An Analysis Platform for YouTube Live Chat Audience Interaction, Trends and Controversial Topics. In Proceedings of the 27th International Conference on Enterprise Information Systems - Volume 2: ICEIS, 2025, SciTePress, p. 630-640. https://doi.org/10.5220/0013446200003929.
+
